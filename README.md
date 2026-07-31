@@ -42,7 +42,7 @@ MiniATC puts you in the seat of an air traffic controller. Guide aircraft throug
 3. Extract anywhere
 4. Run `MiniATC.exe` — no installation needed
 
-**Requirements:** Windows 10/11.
+**Requirements:** Windows.
 
 ## 🖼️ Screenshots
 
